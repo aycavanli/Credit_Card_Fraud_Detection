@@ -3,7 +3,7 @@ IBM SPSS machine learning solution to the Credit Card Frauds in the VAKIFBANK.
 Note: Documentation.pdf can also be found in the Repository with images.
 
 TABLE OF CONTENTS 
-
+----------------------------
 1.	Data Preparation
 1.1.	Data Cleaning	
 1.2.	Feature Selection	
@@ -18,9 +18,10 @@ TABLE OF CONTENTS
 2.2.	Confusion Matrices
 2.3.	Top 10 Frauds	
 2.4.	Evaluation of Model	
-
+----------------------------
 
 1.	Data Preparation
+
 Data sets can have missing, irrelevant or noisy data. We must understand these obstacles that in our way to have a successful model. Without prepared data set, the model’s success rate is very low and inaccurate. In order to make the data set prepped and ready to use for the model, we must clean and transform the data sets. 
 According to what we need and different perspectives, the steps that we are taking in this phase of the data mining can differentiate. If some steps are not fitting the data set’s nature we can skip or have a different approach to it. 
 
